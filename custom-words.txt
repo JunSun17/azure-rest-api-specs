@@ -741,6 +741,7 @@ gltf
 gluster
 glusterfs
 GOARCH
+GPUMIG
 GPUP
 GPUs
 Grammarly
@@ -1263,6 +1264,7 @@ osdiskforlinuxsimple
 osdiskforwindowssimple
 OSMAM
 OSNIC
+OSSKU
 Otomi
 outputdirectoryid
 overprovision
